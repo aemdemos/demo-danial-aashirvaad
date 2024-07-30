@@ -1,0 +1,118 @@
+[
+  {
+    "id": "1",
+    "path": "/nav",
+    "sections": [
+      {
+        "id": "1-1",
+        "blocks": [],
+        "settings": {}
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "path": "/index",
+    "sections": [
+      {
+        "id": "2-1",
+        "blocks": [
+          {
+            "id": "box-id--1675144189",
+            "x": 0,
+            "y": 76,
+            "width": 1268,
+            "height": 640,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "layout": {
+              "numCols": 1,
+              "numRows": 2
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"slick-slide00\")/div[@class=\"banner cmp-banner--logo\"]/div[@class=\"cmp-banner\"]/div[@class=\"cmp-banner__content\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]",
+                "xpathWithDetails": "id(\"slickcarousel-45c1cf16aa\")/div[@class=\"cmp-carousel__container slick-initialized slick-slider slick-dotted\"]/ul[@class=\"slick-dots\"]"
+              }
+            ],
+            "color": "rgba(148, 0, 211, 0.3)",
+            "mapping": "hero",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id-1488405154",
+            "x": 113,
+            "y": 916,
+            "width": 1042,
+            "height": 553,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]",
+            "layout": {
+              "numCols": 3,
+              "numRows": 2
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                "xpathWithDetails": "id(\"container-c51b7397f6\")/div[@class=\"productcategory\"]/div[@class=\"cmp-product-category-listing\"]/div[@class=\"cmp-product-category-listing__content\"]/div[@class=\"cmp-categorylist cmp-categorylist--anchor\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                "xpathWithDetails": "id(\"container-c51b7397f6\")/div[@class=\"productcategory\"]/div[@class=\"cmp-product-category-listing\"]/div[@class=\"cmp-product-category-listing__content\"]/div[@class=\"cmp-categorylist cmp-categorylist--anchor\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                "xpathWithDetails": "id(\"container-c51b7397f6\")/div[@class=\"productcategory\"]/div[@class=\"cmp-product-category-listing\"]/div[@class=\"cmp-product-category-listing__content\"]/div[@class=\"cmp-categorylist cmp-categorylist--anchor\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                "xpathWithDetails": "id(\"container-c51b7397f6\")/div[@class=\"productcategory\"]/div[@class=\"cmp-product-category-listing\"]/div[@class=\"cmp-product-category-listing__content\"]/div[@class=\"cmp-categorylist cmp-categorylist--anchor\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5]",
+                "xpathWithDetails": "id(\"container-c51b7397f6\")/div[@class=\"productcategory\"]/div[@class=\"cmp-product-category-listing\"]/div[@class=\"cmp-product-category-listing__content\"]/div[@class=\"cmp-categorylist cmp-categorylist--anchor\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]",
+                "xpathWithDetails": "id(\"container-c51b7397f6\")/div[@class=\"productcategory\"]/div[@class=\"cmp-product-category-listing\"]/div[@class=\"cmp-product-category-listing__content\"]/div[@class=\"cmp-categorylist cmp-categorylist--anchor\"]"
+              }
+            ],
+            "color": "rgba(148, 0, 211, 0.2)",
+            "mapping": "cards",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "path": "/footer",
+    "sections": [
+      {
+        "id": "3-1",
+        "blocks": [
+          {
+            "id": "box-id-572343457",
+            "x": 0,
+            "y": 6624,
+            "width": 1268,
+            "height": 62,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgba(148, 0, 211, 0.3)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      }
+    ]
+  }
+]
